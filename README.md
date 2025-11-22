@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/fazal" target="blank"><img src="https://img.shields.io/twitter/follow/fazal?logo=twitter&style=for-the-badge" alt="fazal" /></a> </p>
 
-- 🔭 I’m currently working on **web application development**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently mastering **modern JavaScript frameworks like React.js and Vue.js for front-end development, while also backend technologies such as Node.js and Express.js. Additionally, I'm exploring cloud computing platforms like AWS and Azure to understand deployment and scalability concepts better**
+- 🌱 I’m currently mastering **Python, I'm exploring cloud computing platforms like AWS and Azure to understand deployment and scalability concepts better**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **increasing my expertise and proficiency in specific programming languages, frameworks, or technologies related to software development.**
-
-- 💬 Ask me about **javaScript frameworks, front-end technologies, software architecture, best practices in coding, or anything related to software engineering and development methodologies.**
+- 🤝 I’m looking for help with **increasing my expertise and proficiency in specific programming languages, frameworks, or technologies related to devOps.**
 
 - 📫 How to reach me **fazalfahir2000@gmail.com**
 
